@@ -7,3 +7,4 @@ h2 { border-bottom: 1px solid #2a2f3a; padding-bottom: 4px; }
 ul { padding-left: 20px; }
 li { margin: 4px 0; }
 @media (max-width: 480px) { main { padding: 20px 16px; } h1 { font-size: 28px; } }
+.lead { font-size: 18px; color: #b9c0cc; }
