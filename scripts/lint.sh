@@ -1,4 +1,4 @@
 #!/bin/sh
 # Validate the page before pushing. Usage: scripts/lint.sh
 set -e
-npx --yes html-validate@8 index.html
+npx --yes html-validate@8.24.1 index.html
