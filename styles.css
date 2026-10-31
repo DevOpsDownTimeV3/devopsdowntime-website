@@ -10,3 +10,4 @@ li { margin: 4px 0; }
 .lead { font-size: 18px; color: #b9c0cc; }
 h2 { font-weight: 600; }
 .lead { color: #c8ced8; }
+a { color: var(--accent); }
